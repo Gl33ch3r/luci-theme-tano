@@ -1,8 +1,6 @@
 #  Tano Systems LuCI theme
 
-## How to Install 
-
-### For OpenWrt branch 21.02 LuCI only
+## How to Install
 
 ```
 wget --no-check-certificate https://github.com/lynxnexy/luci-theme-tano/releases/download/luci-theme-tano-20220314-all/luci-theme-tano-20220314-all.ipk
