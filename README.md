@@ -11,19 +11,19 @@ opkg install luci-theme-tano*.ipk
 
 ### Overviews:
 
-![Overviews](https://i.ibb.co/pZKBR5t/Screenshot-2022-03-14-09-35-45.png)
+![Overviews](https://i.ibb.co/tCRNrzh/Screenshot-2022-03-15-20-31-19.png)
 
 ### Terminal:
 
-![Overviews](https://i.ibb.co/5Y7S46t/Screenshot-2022-03-14-09-40-34.png)
+![Overviews](https://i.ibb.co/Tv3XYWB/Screenshot-2022-03-15-20-40-18.png)
 
 
 ## Mobile
 
 ### Overviews:
 
-![Overviews](https://i.ibb.co/16yLsHP/Screen-Shot-2022-03-14-at-10-21-28.png)
+![Overviews](https://i.ibb.co/CMDv0tP/Screen-Shot-2022-03-15-at-20-42-09.png)
 
 ### Terminal:
 
-![Overviews](https://i.ibb.co/jJTVdxM/Screen-Shot-2022-03-14-at-10-23-19.png)
+![Overviews](https://i.ibb.co/c8MwVbs/Screen-Shot-2022-03-15-at-20-43-19.png)
