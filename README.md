@@ -35,5 +35,5 @@ opkg install luci-theme-tano*.ipk
 
 ## Credits
 
-- [ophub](https://github.com/tano-systems/luci-theme-tano)
+- [tano-systems](https://github.com/tano-systems/luci-theme-tano)
 - [lynxnexy](https://t.me/lynxnexy)
